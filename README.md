@@ -12,7 +12,7 @@ yeah, its all here!
 - **non playable acted character, NPAC** - a new definition that acts as a reminder that this character is an actor inside a playable character. 
 - **The “collar”** - The collar is a thick, gold, film-like, tattoo-like ring that spans the entire radius of the host's neck. It acts as a “lock” for the entity to stay inside the host. As well, it can induce pain to the host at will of the entity.
 
-
+<!-- "let me break it down for you mark" *proceeds to break it down* -->
 # Breakdown info 
 <!-- the name poped into my pipsqueak brain at the most random min at 12am. like, you really want me to make an entire character? yes. yes it did. now were here. -->
 **Name:** Charlemagne\
