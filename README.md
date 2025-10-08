@@ -1,3 +1,9 @@
+<!-- NOTES: 
+
+SPACES BEFORE \ WILL MAKE THEM NOT WORK! MAKE SURE THAT THE END OF LINE IS LIKE THIS: \|<--  [ | is for EOL marker] 
+
+-->
+
 # Character: **Charlemagne**
 A character I made for no reason, came to during one of them awful midnight creative bursts lmao. Contains version history and whatnot of the character. CAN BE SHARED IF U WANT!
 
@@ -19,7 +25,7 @@ yeah, its all here!
 **Nickname:** Charlie <!-- SOUNDS manly but its a fucking entity so it got no body. so do what you will with this random info -->\
 **Gender:** N/A, any\
 **Type:** Entity, non-physical form.\
-**Appearance:** Applies a very shiny golden “collar” around the neck of the host. <!-- yeah i hate having no context... hmmm... yeah all of this shit is going out of context at some point -->\ 
+**Appearance:** Applies a very shiny golden “collar” around the neck of the host. <!-- yeah i hate having no context... hmmm... yeah all of this shit is going out of context at some point -->\
 **Information:** This character is an NPAC. The entity can communicate to the host auditory-mentally. Only the host can hear the entity. Replying/communication is done out loud.
 <!-- (above) Pronounced N-PAC. but, somehow i even forgot how to say it myself after reminding it to myself and talking to myself many many hours over this. -->
 
@@ -47,12 +53,26 @@ If the “Kontrol!” roll number is higher then the “NIEN!” number, the ASS
 MAKE SURE TO USE THE DICE LISTED! -->
 
 <!-- See now THIS is the sleek new stuff! hehe! gotta love a revise of old text yaknow? --> 
-Order of rolls is "Kontrol!", _then_ "NIEN!".\
-If the "Kontrol!" roll is the highest on the dice, roll "NIEN!" anyways.\
-If _**Both sets**_ end up as the highest on the dice, **REROLL BOTH**.\
-If "Kontrol!" is **higher** then "NIEN!" your ASSERT! was _successful_. Then now the entity can control a host's limb or body.\
-If "Kontrol!" was **less** then "NIEN!", your ASSERT! has _failed_.
+Order of rolls is "Kontrol!", _then_ "NIEN!".
+- If the "Kontrol!" roll is the highest on the dice, roll "NIEN!" anyways.
+- If _**Both sets**_ end up as the highest on the dice, **REROLL BOTH**.
+- If "Kontrol!" is **higher** then "NIEN!" your ASSERT! was _successful_. Then now the entity can control a host's limb or body.
+- If "Kontrol!" was **less** then "NIEN!", your ASSERT! has _failed_.
 
 ### **limbs**
 <!-- I swear to god if somebody says "The 5th limb" I will be proud and crazed somebody took advantage of that --> 
-**(USE 1d6, no more then one limb at a time)** The entity may attempt to take over a limb. That limb may be put into a static or dynamic position. THIS CANNOT LAST FOR LONGER THEN 1 MIN!
+**(USE 1d6, no more then one limb at a time)** The entity may attempt to take over a limb. **That limb may be put into a static or dynamic position**. _**THIS CANNOT LAST FOR LONGER THEN 1 MIN!**_
+- Static: The limb is stuck in a position no matter what the host may do. it is kinda like its frozen in concrete. at least, all the muscles have siezed into a static position.
+- Dynamic: The limb can be moved around according to the will of the entity.
+<!-- So this static and dynamic is to clarify to the host's player what the limb is doing. mainly so that its better conveyed. --> 
+
+### **Body** 
+<!-- Control of the body via the entity. --> 
+The entity may take control of the host's body! Communicating this may be odd, though its a thing for you to figure out since I dont know how to play DND.\
+**An ASSERT! of the body may last no longer then 25 seconds!**
+
+### **Limits, if you didnt read.** 
+<!-- Why no read --> 
+- an ASSERT! of a limb can last no longer then 1 min! 
+- an ASSERT! of the body can last no longer then 25 seconds!
+<!-- had to do somthing to balance it yaknow, cant just let the thing control you forever. -->
